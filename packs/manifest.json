@@ -1,0 +1,94 @@
+{
+  "catalog_version": 1,
+  "packs": [
+    {
+      "id": "core-bibles",
+      "name": "Core Bibles & Strong's",
+      "description": "Ten Bibles, KJV+ Strong numbers, and Strong's dictionary.",
+      "version": "1.0.0",
+      "kind": "library",
+      "file": "core-bibles.db",
+      "compression": "gzip",
+      "download_size": "20.8 MB",
+      "installed_size": 70115328,
+      "sha256": "338a23455d3e8a642a274e2e0a61a39d488c18cdddcee1f3e868081665a6cad4",
+      "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/core-bibles.db.gz"
+    },
+    {
+      "id": "classic-study",
+      "name": "Classic Study Library",
+      "description": "Matthew Henry, Clarke, JFB, Wesley, Scofield, TSK and classic dictionaries.",
+      "version": "1.0.0",
+      "kind": "library",
+      "file": "classic-study.db",
+      "compression": "gzip",
+      "download_size": "38.8 MB",
+      "installed_size": 128471040,
+      "sha256": "8f78d93d18123dbd89e7e80f555a5eb477985bec4a546c20f1889f58379d6d9c",
+      "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/classic-study.db.gz"
+    },
+    {
+      "id": "extended-commentaries",
+      "name": "Extended Commentaries",
+      "description": "Additional classic and modern open commentary modules.",
+      "version": "1.0.0",
+      "kind": "library",
+      "file": "extended-commentaries.db",
+      "compression": "gzip",
+      "download_size": "130.2 MB",
+      "installed_size": 447582208,
+      "sha256": "7acb46f399e40732e646bcf259578aaa700368583d6724d357e54e9f87affa61",
+      "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/extended-commentaries.db.gz"
+    },
+    {
+      "id": "original-language",
+      "name": "Original-Language Lexicons",
+      "description": "STEP Hebrew and Greek lexicons, Thayer, and LSJ.",
+      "version": "1.0.0",
+      "kind": "library",
+      "file": "original-language.db",
+      "compression": "gzip",
+      "download_size": "8.5 MB",
+      "installed_size": 39157760,
+      "sha256": "cf8ea1df1b875c789c5095542c195d6bb11b62403e2f1f8fec00b8e4aa9da910",
+      "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/original-language.db.gz"
+    },
+    {
+      "id": "books-topics",
+      "name": "Books & Topics",
+      "description": "The included book and topical study collection.",
+      "version": "1.0.0",
+      "kind": "library",
+      "file": "books-topics.db",
+      "compression": "gzip",
+      "download_size": "0.5 MB",
+      "installed_size": 1974272,
+      "sha256": "76804e1daedbdf46b3e2789e8098190cf42c412261714a8cf92e2947f123da41",
+      "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/books-topics.db.gz"
+    },
+    {
+      "id": "cross-references",
+      "name": "Cross-References",
+      "description": "Ranked verse-to-verse cross-references.",
+      "version": "1.0.0",
+      "kind": "crossrefs",
+      "file": "crossrefs.db",
+      "compression": "gzip",
+      "download_size": "5.8 MB",
+      "sha256": "754476f2cd377442343c555ee2cafa003af1005cafad877bceb32622436d2ad7",
+      "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/crossrefs.db.gz"
+    },
+    {
+      "id": "interlinear",
+      "name": "Hebrew & Greek Interlinear",
+      "description": "Original-language tokens and morphology.",
+      "version": "1.0.0",
+      "kind": "interlinear",
+      "file": "interlinear.db",
+      "compression": "gzip",
+      "download_size": "13.2 MB",
+      "sha256": "cee0aeafc3959cc7e8bd2a7fff9bd45026d407fd13ed939cbd1f8ae44d344fe3",
+      "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/interlinear.db.gz"
+    }
+  ]
+}
