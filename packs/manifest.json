@@ -57,13 +57,13 @@
       "id": "books-topics",
       "name": "Books & Topics",
       "description": "The included book and topical study collection.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "kind": "library",
       "file": "books-topics.db",
       "compression": "gzip",
-      "download_size": "0.5 MB",
-      "installed_size": 1974272,
-      "sha256": "76804e1daedbdf46b3e2789e8098190cf42c412261714a8cf92e2947f123da41",
+      "download_size": "0.4 MB",
+      "installed_size": 1585152,
+      "sha256": "87bdb8322de4e993f4b7627c1da6100e18b8f79125ee2526ea8892e166ca2393",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/books-topics.db.gz"
     },
     {
