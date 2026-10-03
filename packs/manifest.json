@@ -30,14 +30,14 @@
     {
       "id": "extended-commentaries",
       "name": "Extended Commentaries",
-      "description": "Additional classic and modern open commentary modules.",
-      "version": "1.0.0",
+      "description": "Additional classic and modern open commentary modules. Dr. Lucas D. Shallua is built into Exegis.",
+      "version": "1.0.1",
       "kind": "library",
       "file": "extended-commentaries.db",
       "compression": "gzip",
-      "download_size": "130.2 MB",
-      "installed_size": 447582208,
-      "sha256": "7acb46f399e40732e646bcf259578aaa700368583d6724d357e54e9f87affa61",
+      "download_size": "113.6 MB",
+      "installed_size": 371122176,
+      "sha256": "5b017cd3e4960bf70d4474ebb9efb54d9e3b88fc4da58b3f8794886d69d283d9",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/extended-commentaries.db.gz"
     },
     {
@@ -89,19 +89,6 @@
       "download_size": "13.2 MB",
       "sha256": "cee0aeafc3959cc7e8bd2a7fff9bd45026d407fd13ed939cbd1f8ae44d344fe3",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/interlinear.db.gz"
-    },
-    {
-      "id": "webster-1913",
-      "name": "Webster's Dictionary & Pronunciation",
-      "description": "124,000+ public-domain Webster 1913 entries with pronunciation, parts of speech, etymology and definitions.",
-      "version": "1.0.0",
-      "kind": "library",
-      "file": "webster-1913.db",
-      "compression": "gzip",
-      "download_size": "14.8 MB",
-      "installed_size": 44146688,
-      "sha256": "bf5f6243b10a848fa73a7d0011cef65f75f9db5170438e1cac91f93812d6a5fc",
-      "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/webster-1913.db.gz"
     }
   ]
 }
