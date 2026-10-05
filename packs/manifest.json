@@ -14,7 +14,7 @@
       "compression": "gzip",
       "download_size": "1.9 MB",
       "installed_size": 6205440,
-      "sha256": "e9bc9fcfd4d77c947f2fc376b080e3364600b2278c63edbf3831d3caf471e346",
+      "sha256": "c7661a4b89f74a0b7beff628cd35147491f281188f30e5be9dfc335c537ccb9f",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-bible-akjv.db.gz"
     },
     {
@@ -30,7 +30,7 @@
       "compression": "gzip",
       "download_size": "1.9 MB",
       "installed_size": 6266880,
-      "sha256": "c5b7ef7f705c88e829f4a71297db589abf6e75f031a7ea0812df98247a8fa58a",
+      "sha256": "ac701efd5c1fec64bcd310ab01ec4581c53575dae6380ab3e142e47b85127230",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-bible-asv.db.gz"
     },
     {
@@ -46,7 +46,7 @@
       "compression": "gzip",
       "download_size": "1.9 MB",
       "installed_size": 6287360,
-      "sha256": "387d62631128ad09eb4e8bfdc44f52fc8bfad037014c7a72b91e084b8bd97a0d",
+      "sha256": "a7eefd7b6272074afd58c9f019828ea5ae6bb1f0938f16efc5787521addf3dd5",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-bible-bbe.db.gz"
     },
     {
@@ -62,7 +62,7 @@
       "compression": "gzip",
       "download_size": "1.9 MB",
       "installed_size": 6217728,
-      "sha256": "7a5d2550337bf37e12c7b1890b8625ed3c2422e6a9bad9dd7e2437510b7d4993",
+      "sha256": "abf2d35901a94df084fddb90837e828607b9fc1bcdae48d81ddf1df5664025b4",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-bible-dby.db.gz"
     },
     {
@@ -78,7 +78,7 @@
       "compression": "gzip",
       "download_size": "1.9 MB",
       "installed_size": 6270976,
-      "sha256": "81139d932553e3d3064a54cfe5de6ac9e1df919281ea9fb8570c124804568dc6",
+      "sha256": "5bb654aaed281fcfce016a61c97f3d1034beaa1a659df6aa87838bc012e6167c",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-bible-erv.db.gz"
     },
     {
@@ -94,7 +94,7 @@
       "compression": "gzip",
       "download_size": "1.9 MB",
       "installed_size": 6205440,
-      "sha256": "f564440835d29ba3fa267631cbdb5dc4d5bf5f69cb2131be3996fd3a5700c045",
+      "sha256": "5e37da54932e3faeb53fdcb5adb986313f77670a58b47f5c945cf1d0b4cd4edc",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-bible-kjv.db.gz"
     },
     {
@@ -110,7 +110,7 @@
       "compression": "gzip",
       "download_size": "2.6 MB",
       "installed_size": 11005952,
-      "sha256": "ca67735aca635af98c4e602a9239fa29cf980204f85db4b1d84e6f3b8c5ec144",
+      "sha256": "33b27ef415ac4ce70a9867dbfa08b74f926da845e31b5009d455b3100159c1d7",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-bible-kjv-plus.db.gz"
     },
     {
@@ -126,7 +126,7 @@
       "compression": "gzip",
       "download_size": "2.0 MB",
       "installed_size": 6168576,
-      "sha256": "3fab7c4f96e4d7728657c5d417d94cb3320cb375ff3e4de2015bb7e18a1c7ad2",
+      "sha256": "90ac00dd9cb7c89e4a95241498b9bbecc8c9c1f59da19b9319b2920ebbc25846",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-bible-swh.db.gz"
     },
     {
@@ -142,7 +142,7 @@
       "compression": "gzip",
       "download_size": "2.0 MB",
       "installed_size": 6270976,
-      "sha256": "210fadb960ba3f7af568ee11ea0f3ceb6cbafa2ae5cd78338a14b0bf67f99119",
+      "sha256": "2ed41ac4a28c3c66f6896c076b588d80339a5baf6db4dd92019b1bfea46c8380",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-bible-wbt.db.gz"
     },
     {
@@ -158,7 +158,7 @@
       "compression": "gzip",
       "download_size": "1.9 MB",
       "installed_size": 6242304,
-      "sha256": "ad2f58b666a77e101cc44a8f4540a60eff00b555e6f319add73802d11a552153",
+      "sha256": "6de617901bf9c2c446e94942d433addcab802655e44d37cefa16eed1dea79805",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-bible-ylt.db.gz"
     },
     {
@@ -174,7 +174,7 @@
       "compression": "gzip",
       "download_size": "1.8 MB",
       "installed_size": 5726208,
-      "sha256": "c3aaf37b13e91c4bc81bce1431987b8e3ccae052489154db525848db35552e10",
+      "sha256": "5f9341962611cbd03ff8716a65cc7c9efe7618403cef60b2082e8de1f4d7cbe5",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-commentary-geneva.db.gz"
     },
     {
@@ -190,7 +190,7 @@
       "compression": "gzip",
       "download_size": "8.0 MB",
       "installed_size": 25681920,
-      "sha256": "60c028e073d405e1ea8bfc32dc480e58a1504ef916a94f4dbe4679974e7af86a",
+      "sha256": "543518307ef7a93c6249b40f920adf3edb4abfc01f60fa842b8aee3fcf750a2e",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-commentary-ac.db.gz"
     },
     {
@@ -206,7 +206,7 @@
       "compression": "gzip",
       "download_size": "11.8 MB",
       "installed_size": 41095168,
-      "sha256": "d9a397ef94e2a8f8e94fb502eaa44b0a2870789324091b3b4e6a6ec82e1a5221",
+      "sha256": "f803ab54a72aeb27f7306555caecee89f9a9263f5e57d2cd7b9653b8f082ce6d",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-commentary-barnes.db.gz"
     },
     {
@@ -222,7 +222,7 @@
       "compression": "gzip",
       "download_size": "13.8 MB",
       "installed_size": 49172480,
-      "sha256": "11dbd7c0055f1169e0293521391dfbfb36f37abe98dea4d5f5cb8062994ea089",
+      "sha256": "9cdf20d1c5a76cc284521410d514a5ec5f69ed84691bcefff1b10f7b9a081bce",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-commentary-calvin.db.gz"
     },
     {
@@ -238,7 +238,7 @@
       "compression": "gzip",
       "download_size": "4.8 MB",
       "installed_size": 16265216,
-      "sha256": "1e06d93be31058517dd91f0877517a041dd9ad63044e023a93bb9abbd6c3f4ab",
+      "sha256": "d1c2713ed2b74f0a37aca575d001035315dbeb745eadb90d95273d0a0a6473db",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-commentary-csm.db.gz"
     },
     {
@@ -254,7 +254,7 @@
       "compression": "gzip",
       "download_size": "6.2 MB",
       "installed_size": 22638592,
-      "sha256": "e33b7d210176ce9981e7455e295c4893bbd6751421a563740d35b8829bfaec91",
+      "sha256": "837a70febc789974d5a1d89515904c72a021059526866d9128423bbbedf2478e",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-commentary-utley.db.gz"
     },
     {
@@ -270,7 +270,7 @@
       "compression": "gzip",
       "download_size": "16.9 MB",
       "installed_size": 61575168,
-      "sha256": "23396e6596187f42926a68c25ca69a17ca6da8c629ad86ca962219a1e50da92d",
+      "sha256": "dba074afd99564a67e963aaabf76572a819881d140512452539919720002dce5",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-commentary-gill.db.gz"
     },
     {
@@ -286,7 +286,7 @@
       "compression": "gzip",
       "download_size": "8.9 MB",
       "installed_size": 29708288,
-      "sha256": "fe8eb4e0a7da57e54c580e871ea81083fab1ec528f0eb6b70034c58c14ac7643",
+      "sha256": "d859d8545a754c76811f4540a05393b285bd69a82dcbeea0b44097061184306f",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-commentary-jfb.db.gz"
     },
     {
@@ -302,7 +302,7 @@
       "compression": "gzip",
       "download_size": "2.0 MB",
       "installed_size": 7053312,
-      "sha256": "132dc7b55dcd8ee5628bc4adef273d03572dc34dadb33647a5ddbfb2ea1688dc",
+      "sha256": "e9620412c984e5dc66f1b06b1b7cd9afb242aee1d767a88451c1d6dc68146bf2",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-commentary-wesley.db.gz"
     },
     {
@@ -318,7 +318,7 @@
       "compression": "gzip",
       "download_size": "9.2 MB",
       "installed_size": 30220288,
-      "sha256": "bef90f4e2b448de805c000f9ae8669e95e0c143bfc333f843f33b1a902868c47",
+      "sha256": "fd711da5862844117b796387654531146a78f0737a9b8c45256c9fbdf3673e12",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-commentary-kd.db.gz"
     },
     {
@@ -334,7 +334,7 @@
       "compression": "gzip",
       "download_size": "8.8 MB",
       "installed_size": 28721152,
-      "sha256": "6ed7c4d33d5ddbf3369205c050bab7f9f3b76c91d086ee2b8d6e717e41789cc0",
+      "sha256": "44bc598f3c92bf2fdd829d497964941b4c287918086d90318ad10748e749155f",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-commentary-kc.db.gz"
     },
     {
@@ -350,7 +350,7 @@
       "compression": "gzip",
       "download_size": "11.9 MB",
       "installed_size": 36970496,
-      "sha256": "ec327c7d531eb11a22ef4df84b8862e90663356794768e544d5d76062624edfa",
+      "sha256": "99ae6d9d81f6353096b9c946d870f558149a3ad66fc24784c32734ee7494b631",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-commentary-mhc.db.gz"
     },
     {
@@ -366,7 +366,7 @@
       "compression": "gzip",
       "download_size": "0.3 MB",
       "installed_size": 1060864,
-      "sha256": "83330218a083a5c72d4a761033f31eb09bfca7844d7935edd38b8c90cf27d921",
+      "sha256": "3a2dafbbef354c85bcd81168e99c1db7ae675c95fb0dfa21a3585612ce9625cf",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-commentary-scofield.db.gz"
     },
     {
@@ -382,7 +382,7 @@
       "compression": "gzip",
       "download_size": "40.4 MB",
       "installed_size": 116121600,
-      "sha256": "445a7f062235cf068dbe9f6dcb1564df2be3ad4f50627637f34217f760485b1d",
+      "sha256": "5b7bd10a4f16b1ad0c56bedaced8fe8b8d08c94b1691cddb2b46bf39088e08a0",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-commentary-pulpit.db.gz"
     },
     {
@@ -398,7 +398,7 @@
       "compression": "gzip",
       "download_size": "5.0 MB",
       "installed_size": 19189760,
-      "sha256": "e27d13f07342eb96dad007ed663637cf17ec29eb80504e6d7615368d612b10a2",
+      "sha256": "d3b1cb5ac7ec7619c9697c737ffb2cab2e74672273c26a265807870c83e721c4",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-commentary-tsk.db.gz"
     },
     {
@@ -414,7 +414,7 @@
       "compression": "gzip",
       "download_size": "1.0 MB",
       "installed_size": 3043328,
-      "sha256": "6756c78bf4cf07163ad7c6a92be37de10f7bb66675e9ccb900ec90429859578b",
+      "sha256": "d17ebbd4824ee926e69821e5ed9d9a19ce9f7bcc4b1164e584ec8385d0bdeed0",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-dictionary-easton.db.gz"
     },
     {
@@ -430,7 +430,7 @@
       "compression": "gzip",
       "download_size": "0.1 MB",
       "installed_size": 200704,
-      "sha256": "44fead45c6ae5ee1e1bd24c6179bbe58653be4ee25814f7345c46f4742c3219a",
+      "sha256": "9ce16994945d688f86f6b6318b971879a4520d9b5ee22a4e38a8a23cf1173bcc",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-dictionary-hitchcock.db.gz"
     },
     {
@@ -446,7 +446,7 @@
       "compression": "gzip",
       "download_size": "0.6 MB",
       "installed_size": 2072576,
-      "sha256": "1f99f5d9cbf78332a3232d4763a38f8d7807701e0be3ffe0e359503955fc962f",
+      "sha256": "07591542a6aeb3607fe8d0db58d0f97f013efbfc1f709d8193499ea9d9cbb062",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-dictionary-nave.db.gz"
     },
     {
@@ -462,7 +462,7 @@
       "compression": "gzip",
       "download_size": "5.4 MB",
       "installed_size": 26075136,
-      "sha256": "3df13883410f61993e80d72d93521dbc72dd89ec8290a467c737b44c8141d5ef",
+      "sha256": "942740f9a769b91e75d2bd5ba443d45b3100ca7feb6d4952489fe7314f0996b9",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-dictionary-tflsj.db.gz"
     },
     {
@@ -478,7 +478,7 @@
       "compression": "gzip",
       "download_size": "1.7 MB",
       "installed_size": 7290880,
-      "sha256": "df7baa482f1db477604a8d2c86af4be015d22d799ff66a19113ecae7deac0b1a",
+      "sha256": "7028f26f58d065f90b3cd34286e5eea7da0d95850be2f56442cb6e0891fcf2e0",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-dictionary-tbesg.db.gz"
     },
     {
@@ -494,7 +494,7 @@
       "compression": "gzip",
       "download_size": "0.8 MB",
       "installed_size": 3907584,
-      "sha256": "f28236f07aecca67579562d58abcb4672ab8ebfe148b00cbe3ed19bdf8372c50",
+      "sha256": "a269151d518791f25f145e4286187d81b7fa6ccc8c79c9671875596157a790bc",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-dictionary-tbesh.db.gz"
     },
     {
@@ -510,7 +510,7 @@
       "compression": "gzip",
       "download_size": "0.8 MB",
       "installed_size": 2183168,
-      "sha256": "c3bfe7e701ccd01e1ef380ad325b349e1fcbe8c3f04fb029afd79418af1393f7",
+      "sha256": "2d2da0d0ec43bacd467757f3215971a8d3c9d9ddc7db345dd7ce3074a443a949",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-dictionary-smith.db.gz"
     },
     {
@@ -526,7 +526,7 @@
       "compression": "gzip",
       "download_size": "0.9 MB",
       "installed_size": 2711552,
-      "sha256": "ce116052fc18f13f567707cbc05da3c28ba57d8b4b06dfd32fd0ab403de213f6",
+      "sha256": "9f5e5d30813204296054a041bfc4485c69c7c325218e15594b19c7aa22d0074a",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-dictionary-strong.db.gz"
     },
     {
@@ -542,7 +542,7 @@
       "compression": "gzip",
       "download_size": "0.6 MB",
       "installed_size": 2035712,
-      "sha256": "73085d49c5f0bab32cc00b2474a245b17167107f6ac2d50d412671924c86b91d",
+      "sha256": "6b8a6caadd9c209c7e2a7cababd50a42bc878fd40cc564c6b401e27fc9fe5ac4",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-dictionary-thayer.db.gz"
     },
     {
@@ -558,488 +558,8 @@
       "compression": "gzip",
       "download_size": "0.4 MB",
       "installed_size": 1810432,
-      "sha256": "fd16aece0d4ddafe91269c76f1eb47af49b451db52d7526a27b5591f6baf1991",
+      "sha256": "50eed4b592fae10916126cf3632cf7391ed6821e33df01824522e70785df9caf",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-dictionary-torrey.db.gz"
-    },
-    {
-      "id": "module-topic-angels",
-      "name": "Angels",
-      "description": "Topic module",
-      "category": "Topics",
-      "abbreviation": "ANGELS",
-      "type": "topic",
-      "version": "1.0.0",
-      "kind": "library",
-      "file": "module-topic-angels.db",
-      "compression": "gzip",
-      "download_size": "0.0 MB",
-      "installed_size": 94208,
-      "sha256": "11859611438be57a993d62f636a6deccfcad3c2e7406f73aae87f258881fb4c0",
-      "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-topic-angels.db.gz"
-    },
-    {
-      "id": "module-topic-constructi",
-      "name": "Constructing the Theology",
-      "description": "Topic module",
-      "category": "Topics",
-      "abbreviation": "CONSTRUCTI",
-      "type": "topic",
-      "version": "1.0.0",
-      "kind": "library",
-      "file": "module-topic-constructi.db",
-      "compression": "gzip",
-      "download_size": "0.0 MB",
-      "installed_size": 102400,
-      "sha256": "e32003555e756e1675fb32789d0a110200207deaa6d1caa1e1d3482301f307ce",
-      "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-topic-constructi.db.gz"
-    },
-    {
-      "id": "module-topic-death",
-      "name": "Death",
-      "description": "Topic module",
-      "category": "Topics",
-      "abbreviation": "DEATH",
-      "type": "topic",
-      "version": "1.0.0",
-      "kind": "library",
-      "file": "module-topic-death.db",
-      "compression": "gzip",
-      "download_size": "0.0 MB",
-      "installed_size": 86016,
-      "sha256": "b93dcd45ddca8bb6f167d8bd6abbcc504bbac6d7b222e81a594c9f1e410b2cf2",
-      "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-topic-death.db.gz"
-    },
-    {
-      "id": "module-topic-divineheal",
-      "name": "Divine Healing",
-      "description": "Topic module",
-      "category": "Topics",
-      "abbreviation": "DIVINEHEAL",
-      "type": "topic",
-      "version": "1.0.0",
-      "kind": "library",
-      "file": "module-topic-divineheal.db",
-      "compression": "gzip",
-      "download_size": "0.0 MB",
-      "installed_size": 90112,
-      "sha256": "7fc69bad68c9634382a94da786117d00bbd338138aac8c45f939fe0221898032",
-      "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-topic-divineheal.db.gz"
-    },
-    {
-      "id": "module-topic-divineprov",
-      "name": "Divine Providence",
-      "description": "Topic module",
-      "category": "Topics",
-      "abbreviation": "DIVINEPROV",
-      "type": "topic",
-      "version": "1.0.0",
-      "kind": "library",
-      "file": "module-topic-divineprov.db",
-      "compression": "gzip",
-      "download_size": "0.0 MB",
-      "installed_size": 98304,
-      "sha256": "034c23d31dc419785f0da88aa313a8658f7dabd59441875c6a01cf2166a8bd37",
-      "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-topic-divineprov.db.gz"
-    },
-    {
-      "id": "module-topic-eschatolog",
-      "name": "Eschatology",
-      "description": "Bulk imported document",
-      "category": "Topics",
-      "abbreviation": "ESCHATOLOG",
-      "type": "topic",
-      "version": "1.0.0",
-      "kind": "library",
-      "file": "module-topic-eschatolog.db",
-      "compression": "gzip",
-      "download_size": "0.0 MB",
-      "installed_size": 86016,
-      "sha256": "8ee6da73a5805dc33c925a7b55635785e3a8cd323bfc103b83e006744f35e2de",
-      "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-topic-eschatolog.db.gz"
-    },
-    {
-      "id": "module-topic-faith",
-      "name": "Faith",
-      "description": "Bulk imported document",
-      "category": "Topics",
-      "abbreviation": "FAITH",
-      "type": "topic",
-      "version": "1.0.0",
-      "kind": "library",
-      "file": "module-topic-faith.db",
-      "compression": "gzip",
-      "download_size": "0.0 MB",
-      "installed_size": 86016,
-      "sha256": "c2e017cf7bacd5fb9fc1455905eac9ea3a470f02409ea3d29a1874eb72dd0f43",
-      "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-topic-faith.db.gz"
-    },
-    {
-      "id": "module-topic-god",
-      "name": "God",
-      "description": "Bulk imported document",
-      "category": "Topics",
-      "abbreviation": "GOD",
-      "type": "topic",
-      "version": "1.0.0",
-      "kind": "library",
-      "file": "module-topic-god.db",
-      "compression": "gzip",
-      "download_size": "0.0 MB",
-      "installed_size": 90112,
-      "sha256": "2103559da44bdf39032cc8ed2ceaa23974664c17f8bea4723ddcd2e30d309e49",
-      "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-topic-god.db.gz"
-    },
-    {
-      "id": "module-topic-heaven",
-      "name": "Heaven",
-      "description": "Bulk imported document",
-      "category": "Topics",
-      "abbreviation": "HEAVEN",
-      "type": "topic",
-      "version": "1.0.0",
-      "kind": "library",
-      "file": "module-topic-heaven.db",
-      "compression": "gzip",
-      "download_size": "0.0 MB",
-      "installed_size": 106496,
-      "sha256": "d72941f9820d97ac394064f4f0f7c0b8e5880ae56cc08dcc9d1da462ddd309ae",
-      "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-topic-heaven.db.gz"
-    },
-    {
-      "id": "module-topic-heresiesan",
-      "name": "Heresies and False Teachings",
-      "description": "Bulk imported document",
-      "category": "Topics",
-      "abbreviation": "HERESIESAN",
-      "type": "topic",
-      "version": "1.0.0",
-      "kind": "library",
-      "file": "module-topic-heresiesan.db",
-      "compression": "gzip",
-      "download_size": "0.0 MB",
-      "installed_size": 90112,
-      "sha256": "8fbe41069e5ecc06faa561e2f127a5148d8be9103af1a5cc55cfc0a39cb0cb22",
-      "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-topic-heresiesan.db.gz"
-    },
-    {
-      "id": "module-topic-holinessan",
-      "name": "Holiness and Godliness",
-      "description": "Bulk imported document",
-      "category": "Topics",
-      "abbreviation": "HOLINESSAN",
-      "type": "topic",
-      "version": "1.0.0",
-      "kind": "library",
-      "file": "module-topic-holinessan.db",
-      "compression": "gzip",
-      "download_size": "0.0 MB",
-      "installed_size": 81920,
-      "sha256": "8491af273e02fe33abecafb916daba36d42a0842ff729cca3b896f81e7241869",
-      "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-topic-holinessan.db.gz"
-    },
-    {
-      "id": "module-topic-humanity",
-      "name": "Humanity",
-      "description": "Bulk imported document",
-      "category": "Topics",
-      "abbreviation": "HUMANITY",
-      "type": "topic",
-      "version": "1.0.0",
-      "kind": "library",
-      "file": "module-topic-humanity.db",
-      "compression": "gzip",
-      "download_size": "0.0 MB",
-      "installed_size": 94208,
-      "sha256": "0e403ba0c6c5364754f983383cb4474a38f49886d66b82419a70561fd4322484",
-      "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-topic-humanity.db.gz"
-    },
-    {
-      "id": "module-topic-humility",
-      "name": "Humility",
-      "description": "Bulk imported document",
-      "category": "Topics",
-      "abbreviation": "HUMILITY",
-      "type": "topic",
-      "version": "1.0.0",
-      "kind": "library",
-      "file": "module-topic-humility.db",
-      "compression": "gzip",
-      "download_size": "0.0 MB",
-      "installed_size": 110592,
-      "sha256": "d599f84a0adb94fb2dc1ced2ad3765fd8638dc1f61cb0bbd6b915d0f05299fc7",
-      "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-topic-humility.db.gz"
-    },
-    {
-      "id": "module-topic-jesuschris",
-      "name": "Jesus Christ",
-      "description": "Bulk imported document",
-      "category": "Topics",
-      "abbreviation": "JESUSCHRIS",
-      "type": "topic",
-      "version": "1.0.0",
-      "kind": "library",
-      "file": "module-topic-jesuschris.db",
-      "compression": "gzip",
-      "download_size": "0.0 MB",
-      "installed_size": 90112,
-      "sha256": "32f885eefa21726568a8abcfd08f1c74feca86b053a589051871857d17a133dd",
-      "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-topic-jesuschris.db.gz"
-    },
-    {
-      "id": "module-topic-marriage",
-      "name": "Marriage",
-      "description": "Bulk imported document",
-      "category": "Topics",
-      "abbreviation": "MARRIAGE",
-      "type": "topic",
-      "version": "1.0.0",
-      "kind": "library",
-      "file": "module-topic-marriage.db",
-      "compression": "gzip",
-      "download_size": "0.0 MB",
-      "installed_size": 94208,
-      "sha256": "731b003838afe71e6a366a7aa9c20fd40feee390947b93eb1c751a6353d26115",
-      "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-topic-marriage.db.gz"
-    },
-    {
-      "id": "module-topic-prayer",
-      "name": "Prayer",
-      "description": "Bulk imported document",
-      "category": "Topics",
-      "abbreviation": "PRAYER",
-      "type": "topic",
-      "version": "1.0.0",
-      "kind": "library",
-      "file": "module-topic-prayer.db",
-      "compression": "gzip",
-      "download_size": "0.0 MB",
-      "installed_size": 106496,
-      "sha256": "1c0fa854f468908f0385d77344992815b95091899dfbcd2447bcbd4bc20b743b",
-      "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-topic-prayer.db.gz"
-    },
-    {
-      "id": "module-topic-salvation",
-      "name": "Salvation",
-      "description": "Bulk imported document",
-      "category": "Topics",
-      "abbreviation": "SALVATION",
-      "type": "topic",
-      "version": "1.0.0",
-      "kind": "library",
-      "file": "module-topic-salvation.db",
-      "compression": "gzip",
-      "download_size": "0.0 MB",
-      "installed_size": 106496,
-      "sha256": "8ca51ae1c3282ee2d473236651ef7edd4491c7de25d60de1e903735f65c9185d",
-      "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-topic-salvation.db.gz"
-    },
-    {
-      "id": "module-topic-scripture",
-      "name": "Scripture",
-      "description": "Bulk imported document",
-      "category": "Topics",
-      "abbreviation": "SCRIPTURE",
-      "type": "topic",
-      "version": "1.0.0",
-      "kind": "library",
-      "file": "module-topic-scripture.db",
-      "compression": "gzip",
-      "download_size": "0.0 MB",
-      "installed_size": 90112,
-      "sha256": "9c652fa1fb221880e11300e34930a3914822f22e8904abcc6288c0dc21eca3b1",
-      "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-topic-scripture.db.gz"
-    },
-    {
-      "id": "module-topic-sex",
-      "name": "Sex",
-      "description": "Bulk imported document",
-      "category": "Topics",
-      "abbreviation": "SEX",
-      "type": "topic",
-      "version": "1.0.0",
-      "kind": "library",
-      "file": "module-topic-sex.db",
-      "compression": "gzip",
-      "download_size": "0.0 MB",
-      "installed_size": 110592,
-      "sha256": "65044193e873513f37f9811d8ca6221565f7ded28b0bbf68a4996ec7d0381a20",
-      "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-topic-sex.db.gz"
-    },
-    {
-      "id": "module-topic-sin",
-      "name": "Sin",
-      "description": "Bulk imported document",
-      "category": "Topics",
-      "abbreviation": "SIN",
-      "type": "topic",
-      "version": "1.0.0",
-      "kind": "library",
-      "file": "module-topic-sin.db",
-      "compression": "gzip",
-      "download_size": "0.0 MB",
-      "installed_size": 102400,
-      "sha256": "a98427dd80162262062feb24f991635d09a07ab80437e881adabeef4c8dae498",
-      "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-topic-sin.db.gz"
-    },
-    {
-      "id": "module-topic-spiritualw",
-      "name": "Spiritual Warfare",
-      "description": "Bulk imported document",
-      "category": "Topics",
-      "abbreviation": "SPIRITUALW",
-      "type": "topic",
-      "version": "1.0.0",
-      "kind": "library",
-      "file": "module-topic-spiritualw.db",
-      "compression": "gzip",
-      "download_size": "0.0 MB",
-      "installed_size": 110592,
-      "sha256": "e965247fc54c19d128fb8d3b2ecd72e1cdf8a9dacb9d853c1e95766843092934",
-      "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-topic-spiritualw.db.gz"
-    },
-    {
-      "id": "module-topic-theatoneme",
-      "name": "The Atonement",
-      "description": "Bulk imported document",
-      "category": "Topics",
-      "abbreviation": "THEATONEME",
-      "type": "topic",
-      "version": "1.0.0",
-      "kind": "library",
-      "file": "module-topic-theatoneme.db",
-      "compression": "gzip",
-      "download_size": "0.0 MB",
-      "installed_size": 86016,
-      "sha256": "bbdd1b732410b82421a96cc6903c181473fe53963ccbd494aa019e1fe000da9a",
-      "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-topic-theatoneme.db.gz"
-    },
-    {
-      "id": "module-topic-thefirstbo",
-      "name": "The Firstborn",
-      "description": "Bulk imported document",
-      "category": "Topics",
-      "abbreviation": "THEFIRSTBO",
-      "type": "topic",
-      "version": "1.0.0",
-      "kind": "library",
-      "file": "module-topic-thefirstbo.db",
-      "compression": "gzip",
-      "download_size": "0.0 MB",
-      "installed_size": 94208,
-      "sha256": "7281c6373ad37706f51e12e8899e51e4a85305b77b49ca0be4e3faec6f75cdb6",
-      "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-topic-thefirstbo.db.gz"
-    },
-    {
-      "id": "module-topic-theflesh",
-      "name": "The Flesh",
-      "description": "Bulk imported document",
-      "category": "Topics",
-      "abbreviation": "THEFLESH",
-      "type": "topic",
-      "version": "1.0.0",
-      "kind": "library",
-      "file": "module-topic-theflesh.db",
-      "compression": "gzip",
-      "download_size": "0.0 MB",
-      "installed_size": 114688,
-      "sha256": "f56a5776205a6832d86551535019eea6fcc34fc04ccec38088b21f30fce31b20",
-      "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-topic-theflesh.db.gz"
-    },
-    {
-      "id": "module-topic-thegiftsof",
-      "name": "The Gifts of the Spirit",
-      "description": "Bulk imported document",
-      "category": "Topics",
-      "abbreviation": "THEGIFTSOF",
-      "type": "topic",
-      "version": "1.0.0",
-      "kind": "library",
-      "file": "module-topic-thegiftsof.db",
-      "compression": "gzip",
-      "download_size": "0.0 MB",
-      "installed_size": 77824,
-      "sha256": "c6cb0d61cc598c40deb834b11d48215ebd0f93c4414aa5ca174c2fb8127bcb86",
-      "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-topic-thegiftsof.db.gz"
-    },
-    {
-      "id": "module-topic-thegraceof",
-      "name": "The Grace of God",
-      "description": "Bulk imported document",
-      "category": "Topics",
-      "abbreviation": "THEGRACEOF",
-      "type": "topic",
-      "version": "1.0.0",
-      "kind": "library",
-      "file": "module-topic-thegraceof.db",
-      "compression": "gzip",
-      "download_size": "0.0 MB",
-      "installed_size": 98304,
-      "sha256": "1dea2b9e9442ad89c46693cf0a6436eab06c87f706c1ad573c0f530bdc929b91",
-      "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-topic-thegraceof.db.gz"
-    },
-    {
-      "id": "module-topic-theholyspi",
-      "name": "The Holy Spirit",
-      "description": "Bulk imported document",
-      "category": "Topics",
-      "abbreviation": "THEHOLYSPI",
-      "type": "topic",
-      "version": "1.0.0",
-      "kind": "library",
-      "file": "module-topic-theholyspi.db",
-      "compression": "gzip",
-      "download_size": "0.0 MB",
-      "installed_size": 110592,
-      "sha256": "60741fff30b75141c0a1029003315d0e4981cbb4316bb0ca9759381238cb6722",
-      "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-topic-theholyspi.db.gz"
-    },
-    {
-      "id": "module-topic-theworld",
-      "name": "The World",
-      "description": "Bulk imported document",
-      "category": "Topics",
-      "abbreviation": "THEWORLD",
-      "type": "topic",
-      "version": "1.0.0",
-      "kind": "library",
-      "file": "module-topic-theworld.db",
-      "compression": "gzip",
-      "download_size": "0.0 MB",
-      "installed_size": 98304,
-      "sha256": "33588d57bb6216af9eb55cf245afb86de7439dc546fc64d6e8bccd3fdb137970",
-      "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-topic-theworld.db.gz"
-    },
-    {
-      "id": "module-topic-work",
-      "name": "Work",
-      "description": "Bulk imported document",
-      "category": "Topics",
-      "abbreviation": "WORK",
-      "type": "topic",
-      "version": "1.0.0",
-      "kind": "library",
-      "file": "module-topic-work.db",
-      "compression": "gzip",
-      "download_size": "0.0 MB",
-      "installed_size": 110592,
-      "sha256": "a6997ad016a327db897c2f0d06e610b85552bd5a06e4113558c47ebadb74d9fd",
-      "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-topic-work.db.gz"
-    },
-    {
-      "id": "module-topic-worship",
-      "name": "Worship",
-      "description": "Bulk imported document",
-      "category": "Topics",
-      "abbreviation": "WORSHIP",
-      "type": "topic",
-      "version": "1.0.0",
-      "kind": "library",
-      "file": "module-topic-worship.db",
-      "compression": "gzip",
-      "download_size": "0.0 MB",
-      "installed_size": 98304,
-      "sha256": "9c52c0d56c3383c726893b198d6aa4e8d75d1106e96ee537127f69fc7030e5ac",
-      "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-topic-worship.db.gz"
     },
     {
       "id": "module-commentary-ldsc",
@@ -1054,7 +574,7 @@
       "compression": "gzip",
       "download_size": "5.6 MB",
       "installed_size": 26066944,
-      "sha256": "f9fa87c2b6bdf7a7a137a4c27a063c29746fbc1e4c4ce67e282a5153e06a08cc",
+      "sha256": "31b121345e673956bb116b0e1eb3c78edb9bdcb0c2f75a715e9c86a70ba5bdfc",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-commentary-ldsc.db.gz"
     },
     {
@@ -1070,7 +590,7 @@
       "compression": "gzip",
       "download_size": "0.8 MB",
       "installed_size": 3235840,
-      "sha256": "0a3d48418424bd79c1fa019329b0d9253c181bdb8f90a49c03fd2c1c06bc7349",
+      "sha256": "fd8ada03294e4ee29d782a1f30db4c0d5ecde48ee7d1f0e71ada557acd2792d1",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-book-foundfaith.db.gz"
     },
     {
@@ -1086,7 +606,7 @@
       "compression": "gzip",
       "download_size": "0.1 MB",
       "installed_size": 278528,
-      "sha256": "d905b0ea6e3e9f22311dd1f55217508ee882e64d1fe8a5062be1f7e9a2043523",
+      "sha256": "1cac61df0baa76e8205ce3bbc6109aad33fc8f0c2af10f0665769a85ca43ad9a",
       "url": "https://github.com/shalluax/Exegis-releases/releases/download/content-packs-v1/module-book-tsh.db.gz"
     }
   ]
